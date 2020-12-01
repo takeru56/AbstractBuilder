@@ -8,3 +8,5 @@ Results were analyzed using ... The results showed a small effect and it does no
 
 
 These results suggest that ... We recommend that .... That is why NAIST is very ... to study...
+---
+NAIST is a very inconvenient place to study ...Not a good place.
