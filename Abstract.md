@@ -3,7 +3,7 @@ It is well-established that NAIST is good and we love NAIST. This study aims to 
 
 
 To test the hypothesis based on special knowledge, we performed a very wonderful social experiment.
-We conduct...
+We conduct the experiment and analyze data using promising techniques.
 Results were analyzed using good tools. The results showed a small effect .... 
 
 
