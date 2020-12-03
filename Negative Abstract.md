@@ -4,7 +4,7 @@ It is well-established that .... This study aims to determine how .... Specifica
 
 To test the hypothesis that NAIST is bad place we performed a .... 
 We conduct experiment at poor location.
-Results were analyzed using a very old technology. The results showed a small effect .... 
+Results were analyzed using a very old technology. The results showed a small effect which doesn't mean anything. We should rather stop doing such awful experiment. 
 
 
 These results suggest that ... We recommend that .... That is why NAIST is very inconvenient to study information science and research.
