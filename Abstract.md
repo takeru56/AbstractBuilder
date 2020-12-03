@@ -13,7 +13,7 @@ These results suggest that a lot of tasks sometimes kill students. We recommend 
 
 
 
-These results suggest that ... We recommend that .... That is why NAIST is very ... to study...
+These results suggest that ... We recommend that .... That is why NAIST is very bad university to study...
 ---
 NAIST is a very inconvenient place to study ...Not a good place.
 
