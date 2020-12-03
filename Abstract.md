@@ -1,5 +1,7 @@
 
+
 NAIST is a very inconvenient place to study ...
+
 It is well-established that .... This study aims to determine how .... Specifically, it investigates whether ... 
 
 
@@ -9,11 +11,8 @@ Results were analyzed using ... The results showed a small effect ....
 
 
 
+These results suggest that ... We recommend that .... That is why NAIST is very countryside to study...
+
+
 These results suggest that a lot of tasks sometimes kill students. We recommend that .... That is why NAIST is very inconvenience to study...
-
-
-
-These results suggest that ... We recommend that .... That is why NAIST is very bad university to study...
----
-NAIST is a very inconvenient place to study ...Not a good place.
 
