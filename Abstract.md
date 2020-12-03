@@ -7,7 +7,8 @@ We conduct the experiment at poor locations.
 Results were analyzed using ... The results showed a small effect .... 
 
 
-These results suggest that we should stop this bad experiment and stop doing everything. We recommend that .... That is why NAIST is very low efficiency to study...
+
+These results suggest that we should stop this bad experiment and stop doing everything. We recommend that you don't choice to enter the NAIST. That is why NAIST is very low efficiency to study...
 
 
 NAIST is not a good place to study, because it doesn't have tools for research.
